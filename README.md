@@ -33,4 +33,4 @@ Pytest, diğer test çerçevelerine göre daha okunaklı ve kullanımı daha kol
 
  Bu dekoratörler, testlerin belirli bir şekilde çalışmasını ve sonuçlarının raporlanmasını sağlar.
  
- C:\Users\Abdinci\Pictures\Screenshots\Ekran Görüntüsü (28).png
+ C:\Users\Abdinci\Pictures\Screenshots\Ekran Görüntüsü (28).png(https://user-images.githubusrainci.com/120689945/229106050-0378b851-3743-4df8-b02e-13395a5cc237.png)
