@@ -32,6 +32,5 @@ Pytest, diğer test çerçevelerine göre daha okunaklı ve kullanımı daha kol
  7-@pytest.mark.usefixtures: Test fonksiyonlarına, belirli bir fixture'ı otomatik olarak eklemek için kullanılır.
 
  Bu dekoratörler, testlerin belirli bir şekilde çalışmasını ve sonuçlarının raporlanmasını sağlar.
-
-
-![Ekran Görüntüsü (28)](https://user-images.githubusrainci.com/120689945/229106050-0378b851-3743-4df8-b02e-13395a5cc237.png)
+ 
+ C:\Users\Abdinci\Pictures\Screenshots\Ekran Görüntüsü (28).png
