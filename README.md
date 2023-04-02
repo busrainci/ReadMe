@@ -1,5 +1,4 @@
 # ReadMe
-![Ekran Görüntüsü (28)](https://user-images.githubusercontent.com/120026505/229372107-a7c1ffc8-42f6-454c-87b9-3da69f909a51.png)
 
 PyTest nedir ?
 
@@ -34,3 +33,4 @@ Pytest, diğer test çerçevelerine göre daha okunaklı ve kullanımı daha kol
 
  Bu dekoratörler, testlerin belirli bir şekilde çalışmasını ve sonuçlarının raporlanmasını sağlar.
  
+![Ekran Görüntüsü (28)](https://user-images.githubusercontent.com/120026505/229372107-a7c1ffc8-42f6-454c-87b9-3da69f909a51.png)
